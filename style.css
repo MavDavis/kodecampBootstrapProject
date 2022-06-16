@@ -5,6 +5,10 @@
     filter: grayscale(0);
 }
 
+.hide {
+    display: none;
+}
+
 .card,
 .translate,
 .btn {
